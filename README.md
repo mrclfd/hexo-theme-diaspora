@@ -1,3 +1,4 @@
+<html lang="cn">
 # Hexo-theme-diaspora
 
 
@@ -222,4 +223,4 @@ favicon: /img/favicon.png
 rss: atom.xml
 
 ```
-
+</html>
